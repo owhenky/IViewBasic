@@ -1,0 +1,17 @@
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\bin\Debug\IViewBasic.exe.config
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\bin\Debug\IViewBasic.exe
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\bin\Debug\IViewBasic.pdb
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\bin\Debug\IViewBasic.xml
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.vbprojAssemblyReference.cache
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.About.resources
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.IViewBasicApp.resources
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.Dev.resources
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.Resources.resources
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.URL.resources
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.vbproj.GenerateResource.cache
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.vbproj.CoreCompileInputs.cache
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.exe
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.xml
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.pdb
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.GetStarted.resources
+C:\Users\Virgílio\source\repos\Image Viewer\Image Viewer\obj\Debug\IViewBasic.Settings.resources
